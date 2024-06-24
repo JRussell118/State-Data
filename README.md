@@ -1,8 +1,6 @@
-# Voter-Registration
-### This program asks for and uses specific information from the user to register them to vote.
-If the user's entered age or state is invalid, an error message will be displayed and reprompt the user.
-After displaying all of the user's information, the program will determine if the user is eligible to vote
-based on their age and citizenship.
+# State-Data
+### This program creates a list of the U.S. states and using a user driven menu, sorts and displays the capital, population, and state flower of each state in the list.
+The user can use the menu to display all the states and their data, display a specific state and its data, create a bar graph comparing the top 5 states populations, or update the population of a state. The program uses the states.txt file and flowers folder to create the list of states in the program.
 
 ---
 ###### This project was assigned while attending University of Maryland Global Campus (UMGC)
