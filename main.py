@@ -1,3 +1,7 @@
+# Jaden Russell
+# 11/4/2022
+# SDEV 300
+
 """This program creates a list of the U.S. states and using a user driven menu,
 sorts and displays the capital, population, and state flower of each state in the list"""
 import matplotlib.pyplot as plt
